@@ -17,8 +17,8 @@ pd.Series(arr, labels)
 # Series using dictionaries
 pd.Series(d)
 
-ser1 = pd.Series([1, 2, 3, 4], index = ['USA', 'Germany', 'USSR', 'Japan'])
-ser2 = pd.Series([1,2,5,4],index = ['USA', 'Germany','Italy', 'Japan'])
+ser1 = pd.Series([1, 2, 3, 4], index=['USA', 'Germany', 'USSR', 'Japan'])
+ser2 = pd.Series([1, 2, 5, 4], index=['USA', 'Germany', 'Italy', 'Japan'])
 
 ser1['USA']
 ser1 + ser2
