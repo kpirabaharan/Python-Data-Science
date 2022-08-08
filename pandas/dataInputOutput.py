@@ -2,6 +2,7 @@ import pandas as pd
 
 # CSV
 df = pd.read_csv('/home/keeshigan/Documents/DataScience/pandas/example.csv')
+# df = pd.read_csv('./example.csv')  # WTF
 df
 
 # pd.read_excel('/home/keeshigan/Documents/DataScience/pandas/Excel_Sample.xlsx')
