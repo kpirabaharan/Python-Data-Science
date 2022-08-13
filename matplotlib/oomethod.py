@@ -31,6 +31,8 @@ axes2.set_xlabel('X_label_axes2')
 axes2.set_ylabel('Y_label_axes2')
 axes2.set_title('Axes 2 Title')
 
+plt.tight_layout()
 plt.show()
+
 
 

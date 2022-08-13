@@ -17,4 +17,3 @@ for ax in axes3:
     ax.set_ylabel('y')
     ax.set_title('title')
 
-plt.show()
