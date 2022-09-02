@@ -66,3 +66,4 @@ print(f"Root Mean Squared Error: {np.sqrt(metrics.mean_squared_error(y_test, pre
 
 
 plt.show()
+#%%

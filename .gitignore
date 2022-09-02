@@ -2,3 +2,5 @@
 .idea/
 /Intro-to-Machine-Learning
 Important_Operations.pdf
+/venv
+.DS_Store
